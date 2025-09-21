@@ -199,6 +199,9 @@ const Contact = () => {
                     className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:border-transparent transition-all"
                   >
                     <option value="">Selecione uma faixa</option>
+                    <option value="200-500">R$ 200 - R$ 500</option>
+                    <option value="500-1000">R$ 500 - R$ 1.000</option>
+                    <option value="1500-2500">R$ 1.500 - R$ 2.500</option>
                     <option value="2500-5000">R$ 2.500 - R$ 5.000</option>
                     <option value="5000-10000">R$ 5.000 - R$ 10.000</option>
                     <option value="10000+">Acima de R$ 10.000</option>
